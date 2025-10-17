@@ -1,9 +1,9 @@
 body{
-  background-color: #F398BE;
+  background-color: whitesmoke;
 }
 
 .box{
-  background-color: whitesmoke;
+  background-color: darkgrey;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -13,8 +13,8 @@ body{
 }
 
 .search{
-  color: #9E314B;
-  background-color: #F398BE;
+  color: white;
+  background-color: darkblue;
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -42,5 +42,5 @@ body{
 }
   
 .box:hover > .search {
-  background-color: whitesmoke;
+  background-color: black;
 }
